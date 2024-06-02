@@ -26,9 +26,5 @@
     ```
     celery -A base worker --loglevel=INFO
     ```
-<<<<<<< Updated upstream
 4) Создать суперюзера `python3 manage.py createsuperuser`
-=======
-4) Создать суперюзера `python manage.py createsuperuser`
->>>>>>> Stashed changes
 5) Запустить проект `python3 manage.py runserver`
